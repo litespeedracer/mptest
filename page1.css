@@ -4,21 +4,21 @@
     margin-left: auto;
     margin-right: auto;
     min-height: 100%;
-    width: 1020px;
+    width: 100%;
     max-width: none;
     float: none;
     clear: none;
     background-image:url("img/Background.png");
     background-attachment: scroll;
     background-size: auto;
-    background-position: 50% 0%;
-    background-repeat: no-repeat no-repeat;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
 }
 
 #Home_About_Features_Partners_Contact_Client {
     float: none;
     font-size: 0.68727525em;
-    width: auto;
+    width: 100%;
     height: auto;
     text-align: center;
     font-weight: bold;
@@ -33,9 +33,10 @@
     top: 0px;
     left: 0px;
     z-index: 6;
-    margin: 25px auto 5px;
+    margin: 1384px auto 5px;
     clear: none;
     display: block;
+    min-width: 0px;
 }
 
 #RealTime_logo_png {
@@ -306,7 +307,7 @@
 #Features_Partner_Divider_Line {
     float: none;
     height: 5px;
-    width: 870px;
+    width: 100%;
     background-color: rgb(238, 176, 28);
     box-shadow: rgba(0, 0, 0, 0.34902) 0px 3px 5px;
     position: relative;
@@ -317,6 +318,7 @@
     margin-left: auto;
     clear: none;
     margin-right: auto;
+    min-width: 0px;
 }
 
 #Strategy_logo_png {
@@ -806,7 +808,7 @@
 #Pitch_Background_Rectangle {
     float: left;
     height: 325px;
-    width: 809px;
+    width: 93%;
     border: 2px solid rgb(104, 104, 104);
     position: relative;
     top: 0px;
@@ -816,7 +818,7 @@
     margin-left: 30.00000036px;
     clear: none;
     margin-right: 0px;
-    max-width: 809px;
+    max-width: none;
     background-color: rgb(255, 255, 255);
     overflow: auto;
 }
@@ -1275,25 +1277,24 @@
 }
 
 #Features_Border_Rectangle {
-    float: none;
+    float: left;
     height: 646px;
-    width: 870px;
+    width: 100%;
     background-color: rgb(241, 239, 239);
     position: relative;
     top: 0px;
     left: 0px;
     z-index: auto;
-    clear: none;
+    clear: both;
     max-width: none;
     margin-top: 0px;
-    margin-left: auto;
+    margin-left: 0%;
     overflow: visible;
     display: block;
-    margin-right: auto;
 }
 
 #LinksBackground_Rectangle {
-    float: left;
+    float: right;
     height: 250px;
     width: 280px;
     position: relative;
@@ -1301,9 +1302,10 @@
     left: 0px;
     z-index: 56;
     margin-top: -119px;
-    margin-left: 45px;
+    margin-left: 0px;
     clear: none;
     background-color: rgba(0, 0, 0, 0.8);
+    margin-right: 64px;
 }
 
 #ShippersTitle {
@@ -1352,14 +1354,14 @@
     clear: both;
 }
 
-#box {
+#box1 {
     float: none;
     height: 90px;
     clear: none;
-    width: 870px;
+    width: 100%;
     background-image:url("img/Header.png");
     background-attachment: scroll;
-    background-size: auto;
+    background-size: cover;
     position: relative;
     top: 0px;
     left: 0px;
@@ -1368,15 +1370,21 @@
     display: block;
     margin-top: 0px;
     margin-right: auto;
+    min-width: 0px;
     background-position: 50% 0%;
     background-repeat: no-repeat no-repeat;
 }
 
 body {
     font-family: lato;
+    background-image:url("img/Background.png");
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
 }
 
-#box1 {
+#box2 {
     float: right;
     height: auto;
     margin: 20px 25px 10px 0px;
@@ -1384,42 +1392,40 @@ body {
     width: auto;
 }
 
-#box2 {
-    float: none;
+#box3 {
+    float: left;
     height: 425px;
-    margin-left: auto;
+    margin-left: -0.05031356%;
     margin-top: 0px;
     clear: none;
-    width: 870px;
+    width: 100%;
     background-image:url("img/Banner.png");
     background-attachment: scroll;
-    background-size: auto;
+    background-size: cover;
     max-width: none;
     position: relative;
     top: 0px;
     left: 0px;
     display: block;
-    margin-right: auto;
     background-position: 50% 0%;
     background-repeat: no-repeat no-repeat;
 }
 
-#box11 {
-    float: none;
+#box12 {
+    float: left;
     height: 279px;
-    margin-left: auto;
-    margin-top: 1px;
-    clear: none;
-    width: 870px;
+    margin-left: -0.09883021%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
     max-width: none;
     display: block;
-    margin-right: auto;
     position: relative;
     top: 0px;
     left: 0px;
 }
 
-#box10 {
+#box11 {
     float: right;
     height: auto;
     margin-left: 0px;
@@ -1429,7 +1435,7 @@ body {
     margin-right: 30px;
 }
 
-#box9 {
+#box10 {
     float: none;
     height: auto;
     margin-left: auto;
@@ -1439,7 +1445,7 @@ body {
     margin-right: auto;
 }
 
-#box8 {
+#box9 {
     float: left;
     height: auto;
     margin-left: 30px;
@@ -1448,7 +1454,7 @@ body {
     width: 255px;
 }
 
-#box5 {
+#box6 {
     float: left;
     height: auto;
     margin-left: 30px;
@@ -1457,7 +1463,7 @@ body {
     width: 255px;
 }
 
-#box6 {
+#box7 {
     float: none;
     height: auto;
     margin-left: auto;
@@ -1467,7 +1473,7 @@ body {
     margin-right: auto;
 }
 
-#box7 {
+#box8 {
     float: right;
     height: auto;
     margin-left: 0px;
@@ -1477,7 +1483,7 @@ body {
     margin-right: 30px;
 }
 
-#box4 {
+#box5 {
     float: right;
     height: auto;
     margin-left: 0px;
@@ -1490,7 +1496,7 @@ body {
     margin-right: 35px;
 }
 
-#box3 {
+#box4 {
     float: right;
     height: auto;
     margin-left: 0px;
@@ -1501,5 +1507,50 @@ body {
     top: 0px;
     left: 0px;
     margin-right: 45px;
+}
+
+#box {
+    float: none;
+    height: 1493px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 85.249694%;
+    margin-right: auto;
+    box-shadow: rgb(0, 0, 0) 0px 9px 17px 0px;
+    max-width: 870px;
+    background-color: rgb(255, 255, 255);
+}
+
+@media only screen and (max-width: 1020px) {
+   #box1 {
+        max-width: none;
+        width: 100%;
+        height: 90px;
+   }
+
+   #box {
+        width: 85.249694%;
+   }
+
+   #Home_About_Features_Partners_Contact_Client {
+        margin-top: 1384px;
+        clear: none;
+        width: 100%;
+   }
+
+   #box12 {
+        height: 313px;
+   }
+
+   #box3 {
+        width: 100%;
+        height: 425px;
+   }
+
+   #Features_Border_Rectangle {
+        width: 100%;
+        height: 646px;
+   }
 }
 

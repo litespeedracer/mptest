@@ -1,0 +1,719 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#Home_About_Features_Partners_Contact_Client {
+    float: none;
+    font-size: 0.68727525em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 14px;
+    word-wrap: break-word;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    margin: 1384px auto 5px;
+    clear: both;
+}
+
+#ContactInfo {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 19px;
+    word-wrap: break-word;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 15;
+    margin: 42px 0px 0px 48px;
+    clear: none;
+    min-height: 28px;
+}
+
+#AddressInfo {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin: 24px 0px 0px 64px;
+    clear: both;
+    min-height: 71px;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 19px;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 19px;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+}
+
+#ATA_logo_png {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 13;
+    margin: 10px 0px 0px 32px;
+    clear: none;
+}
+
+#MeetMacroPoint {
+    float: left;
+    font-size: 1.07119625em;
+    width: 725px;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    word-wrap: break-word;
+    color: black;
+    font-style: normal;
+    letter-spacing: -0.025em;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 23;
+    margin: 10px 0px 0px 54px;
+    clear: none;
+}
+
+#Nasstrac_logo_png {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+}
+
+#MeetMacroPointTitle {
+    float: left;
+    font-size: 2.9457896875em;
+    width: 450px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    color: black;
+    font-style: normal;
+    letter-spacing: -0.025em;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 24;
+    margin: 32px 0px 0px 54px;
+    clear: none;
+}
+
+#TIA_logo_png {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 12;
+    margin: 0px 0px 0px 32px;
+    clear: none;
+}
+
+#CSCMP_logo_png {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 11;
+    margin: 5px 0px 0px 32px;
+    clear: none;
+}
+
+#IndustryLeadership {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 19px;
+    word-wrap: break-word;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 16;
+    margin: 20px 0px 0px 64px;
+    clear: both;
+}
+
+#IndustryLeadershipTitle {
+    float: left;
+    font-size: 1.73945625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 9px;
+    word-wrap: break-word;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 17;
+    margin: 30px 0px 0px 64px;
+    clear: both;
+}
+
+#MacroPointDescription {
+    float: none;
+    font-size: 16px;
+    width: 85%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 19px;
+    word-wrap: break-word;
+    color: rgb(93, 93, 93);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 18;
+    margin: 20px auto 0px;
+    clear: both;
+    min-height: 286px;
+}
+
+body {
+    font-family: lato;
+    background-image:url("img/Background.png");
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#box {
+    float: none;
+    height: 1493px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 85.249694%;
+    max-width: none;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#box1 {
+    float: none;
+    height: 90px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-image:url("img/Header.png");
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 50% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#box3 {
+    float: left;
+    height: 170px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(238, 176, 28);
+    box-shadow: rgb(166, 166, 166) 0px 5px 5px 0px;
+    opacity: 1;
+}
+
+#box4 {
+    float: left;
+    height: 425px;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+}
+
+#box5 {
+    float: left;
+    height: 240px;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+    width: 100%;
+}
+
+#image1 {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 25px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 25px;
+    margin-top: 30px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#text {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 9px;
+    word-wrap: break-word;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 376px;
+}
+
+#text1 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 9px;
+    word-wrap: break-word;
+    margin-left: 5px;
+    margin-top: -9px;
+    clear: both;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 250px;
+}
+
+#box2 {
+    float: right;
+    height: auto;
+    margin: 20px 20px 10px 0px;
+    clear: right;
+    width: 480px;
+    position: static;
+}
+
+#text2 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 9px;
+    word-wrap: break-word;
+    margin-left: 5px;
+    margin-top: -9px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: 125px;
+}
+
+#text3 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 9px;
+    word-wrap: break-word;
+    margin-left: 5px;
+    margin-top: -9px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: 5.3px;
+}
+
+#box6 {
+    float: left;
+    height: auto;
+    margin-left: 64px;
+    margin-top: 36px;
+    clear: both;
+    width: 58.502093%;
+}
+
+#box7 {
+    float: left;
+    height: 330px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+}
+
+@media only screen and (max-width: 1020px) {
+   .primaryContainer {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+
+   #MeetMacroPointTitle {
+        width: 450px;
+   }
+
+   #MeetMacroPoint {
+        height: auto;
+   }
+
+   #MacroPointDescription {
+        clear: none;
+        margin-top: 20px;
+   }
+
+   #IndustryLeadershipTitle {
+        clear: none;
+   }
+
+   #IndustryLeadership {
+        clear: both;
+   }
+
+   #AddressInfo {
+        clear: none;
+   }
+
+   #ContactInfo {
+        clear: none;
+   }
+
+   #Nasstrac_logo_png {
+        clear: none;
+        margin-top: 5px;
+   }
+
+   #CSCMP_logo_png {
+        clear: none;
+   }
+
+   #TIA_logo_png {
+        clear: none;
+   }
+
+   #ATA_logo_png {
+        clear: none;
+   }
+
+   #Home_About_Features_Partners_Contact_Client {
+        clear: both;
+   }
+
+   body {
+        background-image:url("img/Background.png");
+        background-attachment: scroll;
+        background-size: auto;
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+   }
+
+   #box {
+        float: none;
+        height: 1493px;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        width: 85.249694%;
+        margin-right: auto;
+        background-color: rgb(255, 255, 255);
+   }
+
+   #box1 {
+        float: none;
+        height: 90px;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        margin-right: auto;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-image:url("img/Header.png");
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: 50% 0%;
+        background-repeat: no-repeat no-repeat;
+   }
+
+   #box3 {
+        float: left;
+        height: 170px;
+        margin-left: 0%;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(238, 176, 28);
+        box-shadow: rgb(166, 166, 166) 0px 5px 5px 0px;
+        opacity: 1;
+   }
+
+   #box4 {
+        float: left;
+        clear: none;
+        width: 100%;
+        height: 425px;
+   }
+
+   #box5 {
+        float: left;
+        clear: both;
+        width: 100%;
+        height: 240px;
+   }
+
+   #image1 {
+        float: right;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 25px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+   }
+
+   #image {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 25px;
+        margin-top: 30px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-bottom: 10px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+   }
+
+   #text {
+        float: right;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: bold;
+        line-height: 9px;
+        word-wrap: break-word;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+        margin-right: 376px;
+   }
+
+   #text1 {
+        float: right;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: bold;
+        line-height: 9px;
+        word-wrap: break-word;
+        margin-left: 5px;
+        margin-top: -9px;
+        clear: both;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+        margin-right: 250px;
+   }
+
+   #box2 {
+        float: right;
+        height: auto;
+        clear: right;
+   }
+
+   #text2 {
+        float: right;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: bold;
+        line-height: 9px;
+        word-wrap: break-word;
+        margin-left: 5px;
+        margin-top: -9px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+        position: relative;
+        top: 0px;
+        left: 0px;
+        margin-right: 125px;
+   }
+
+   #text3 {
+        float: right;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: bold;
+        line-height: 9px;
+        word-wrap: break-word;
+        margin-left: 5px;
+        margin-top: -9px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+        position: relative;
+        top: 0px;
+        left: 0px;
+        margin-right: 5.3px;
+   }
+
+   #box6 {
+        float: left;
+        height: auto;
+        margin-left: 64px;
+        margin-top: 36px;
+        clear: both;
+        width: 58.502093%;
+   }
+
+   #box7 {
+        float: left;
+        height: 330px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        margin-right: 0px;
+   }
+}
+

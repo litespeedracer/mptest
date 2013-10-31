@@ -5,6 +5,7 @@
     margin-right: auto;
     min-height: 100%;
     width: 100%;
+    min-width: 1020px;
 }
 
 #Home_About_Features_Partners_Contact_Client {
@@ -276,8 +277,8 @@ body {
     margin-left: auto;
     margin-top: 0px;
     clear: none;
-    width: 85.249694%;
-    max-width: none;
+    width: 85.25%;
+    max-width: 870px;
     margin-right: auto;
     background-color: rgb(255, 255, 255);
 }
@@ -469,6 +470,7 @@ body {
         margin-right: auto;
         float: none;
         clear: none;
+        width: 100%;
    }
 
    #MeetMacroPointTitle {
@@ -535,7 +537,6 @@ body {
         margin-left: auto;
         margin-top: 0px;
         clear: none;
-        width: 85.249694%;
         margin-right: auto;
         background-color: rgb(255, 255, 255);
    }

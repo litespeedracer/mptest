@@ -1,0 +1,1317 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+   height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   min-height: 100%;
+   width: 100%;
+   min-width: 1020px;
+   background-image:url("../img/Background.png");
+   background-position: 0% 0%;
+   background-repeat: repeat;
+   background-attachment: scroll;
+   background-size: auto;
+}
+
+#Home_About_Features_Partners_Contact_Client {
+   float: none;
+   font-size: 0.68727525em;
+   width: auto;
+   height: auto;
+   text-align: center;
+   font-weight: bold;
+   line-height: 14px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 6;
+   margin-top: 1090px;
+   margin-left: auto;
+   clear: both;
+   margin-right: auto;
+   margin-bottom: 5px;
+}
+
+#Target_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 14;
+   margin-top: 34px;
+   margin-left: 31.73px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#GE_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 16;
+   margin-top: 20px;
+   margin-left: 35px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#accuracy {
+   float: left;
+   font-size: 2.4741425625em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 25px;
+   word-wrap: break-word;
+   color: black;
+   font-style: italic;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 26;
+   margin-top: 120px;
+   margin-left: -95px;
+   clear: none;
+   display: block;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#McDonalds_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 11;
+   margin-top: 20px;
+   margin-left: 64.7px;
+   clear: both;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#_increase_in {
+   float: left;
+   font-size: 1.3125em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 25px;
+   word-wrap: break-word;
+   color: black;
+   font-style: italic;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 24;
+   margin-top: 90px;
+   margin-left: 5px;
+   clear: none;
+   display: block;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Perdue_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 10;
+   margin-top: 10px;
+   margin-left: 54.56px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#Quote {
+   float: left;
+   font-size: 1em;
+   width: 370px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 23;
+   margin-top: 90px;
+   margin-left: 60px;
+   clear: none;
+   display: block;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#textspan22 {
+   float: none;
+   font-size: 1.3125em;
+   line-height: 25px;
+   color: black;
+   font-style: italic;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan23 {
+   float: none;
+   font-size: 1em;
+   line-height: 22px;
+   color: black;
+   font-style: italic;
+   font-weight: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#EDIIntegration {
+   float: left;
+   font-size: 1em;
+   width: 245px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 42;
+   margin-top: 25px;
+   margin-left: 24px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#textspan13 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan14 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan15 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan16 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan17 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#SalesPoints {
+   float: left;
+   height: 325px;
+   width: 93%;
+   background-color: rgb(255, 255, 255);
+   border-top-width: 2px;
+   border-right-width: 2px;
+   border-bottom-width: 2px;
+   border-left-width: 2px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: rgb(153, 152, 152);
+   border-right-color: rgb(153, 152, 152);
+   border-bottom-color: rgb(153, 152, 152);
+   border-left-color: rgb(153, 152, 152);
+   border-image-source: initial;
+   border-image-slice: initial;
+   border-image-width: initial;
+   border-image-outset: initial;
+   border-image-repeat: initial;
+   box-shadow: rgba(0, 0, 0, 0.34902) 0px 5px 5px;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 38;
+   margin-top: 170px;
+   margin-left: -96.6%;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: -35px;
+   display: block;
+}
+
+#MacroPoint_logo_png {
+   float: left;
+   width: auto;
+   max-width: 400px;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 64;
+   margin-top: 0px;
+   margin-left: 25px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 10px;
+}
+
+#Amazon_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 12;
+   margin-top: 18px;
+   margin-left: 48px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#_75_ {
+   float: left;
+   font-size: 3.1489093125000003em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 25px;
+   word-wrap: break-word;
+   color: black;
+   font-style: italic;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 25;
+   margin-top: 90px;
+   margin-left: 90px;
+   clear: none;
+   display: block;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#ReduceWaitTime {
+   float: left;
+   font-size: 1em;
+   width: 220px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 41;
+   margin-top: 25px;
+   margin-left: 24px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#textspan18 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: black;
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan19 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan20 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: black;
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan21 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#RequestDemo {
+   float: none;
+   font-size: 1.14545875em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 36;
+   margin-top: 0px;
+   margin-left: auto;
+   clear: none;
+   margin-right: auto;
+   margin-bottom: 0px;
+   padding-top: 15px;
+   padding-right: 5px;
+   padding-bottom: 15px;
+   padding-left: 5px;
+}
+
+#Disney_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 9;
+   margin-top: 18px;
+   margin-left: 36px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#Quotes {
+   float: left;
+   height: 207px;
+   width: 100%;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 22;
+   margin-top: 0px;
+   margin-left: 0%;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   display: block;
+   background-color: rgb(240, 175, 27);
+}
+
+#LocationUpdates {
+   float: left;
+   font-size: 1em;
+   width: 240px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 40;
+   margin-top: 25px;
+   margin-left: 32px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#textspan2 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: black;
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan3 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: black;
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan4 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: black;
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan5 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan6 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan7 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan8 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(1, 1, 1);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan9 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan10 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(2, 2, 2);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan11 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(3, 3, 3);
+   font-style: normal;
+   font-weight: 900;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan12 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#DemoBorder {
+   float: left;
+   height: 40px;
+   width: 180px;
+   border-top-width: 2px;
+   border-right-width: 2px;
+   border-bottom-width: 2px;
+   border-left-width: 2px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: rgb(0, 0, 0);
+   border-right-color: rgb(0, 0, 0);
+   border-bottom-color: rgb(0, 0, 0);
+   border-left-color: rgb(0, 0, 0);
+   border-image-source: initial;
+   border-image-slice: initial;
+   border-image-width: initial;
+   border-image-outset: initial;
+   border-image-repeat: initial;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 35;
+   margin-top: 15px;
+   margin-left: 54px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Ford_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 13;
+   margin-top: 18px;
+   margin-left: 36px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#SupplyTitle {
+   float: left;
+   font-size: 1.73945625em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 1em;
+   word-wrap: break-word;
+   color: rgb(149, 149, 148);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 43;
+   margin-top: 25px;
+   margin-left: 32px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Contact {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 61;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: right;
+   margin-right: 5px;
+   margin-bottom: 0px;
+}
+
+#login_png {
+   float: right;
+   width: auto;
+   max-width: 220px;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 56;
+   margin-top: 0px;
+   margin-left: 0px;
+   clear: none;
+   margin-right: 25px;
+   margin-bottom: 0px;
+}
+
+#GM_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 15;
+   margin-top: 18px;
+   margin-left: 36px;
+   clear: none;
+   margin-right: 36px;
+   margin-bottom: 0px;
+}
+
+#Shippers1 {
+   float: left;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 44;
+   margin-top: 25px;
+   margin-left: 32px;
+   clear: none;
+   margin-right: 32px;
+   margin-bottom: 0px;
+}
+
+#textspan {
+   float: none;
+   font-size: 1.25em;
+   line-height: 25px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan1 {
+   float: none;
+   font-size: 1em;
+   line-height: 25px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#Shippers {
+   float: left;
+   font-size: 1.07em;
+   width: 785px;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 1em;
+   word-wrap: break-word;
+   color: black;
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 33;
+   margin-top: 0px;
+   margin-left: 54px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Partners {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 58;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: right;
+   margin-right: 125px;
+   margin-bottom: 0px;
+}
+
+#Shippers2 {
+   float: left;
+   height: 320px;
+   width: 100%;
+   border-top-width: 1px;
+   border-right-width: 1px;
+   border-bottom-width: 1px;
+   border-left-width: 1px;
+   border-top-style: none;
+   border-right-style: none;
+   border-bottom-style: none;
+   border-left-style: none;
+   border-top-color: rgb(255, 0, 0);
+   border-right-color: rgb(255, 0, 0);
+   border-bottom-color: rgb(255, 0, 0);
+   border-left-color: rgb(255, 0, 0);
+   border-image-source: initial;
+   border-image-slice: initial;
+   border-image-width: initial;
+   border-image-outset: initial;
+   border-image-repeat: initial;
+   position: relative;
+   z-index: 17;
+   margin-top: 0px;
+   margin-left: 0%;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   display: block;
+   min-width: 0px;
+   min-height: 0px;
+}
+
+#ShippersTitle {
+   float: left;
+   font-size: 2.95em;
+   width: 450px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   color: black;
+   font-style: normal;
+   letter-spacing: -0.025em;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 34;
+   margin-top: 20px;
+   margin-left: 54px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Features {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 60;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: right;
+   margin-right: 250px;
+   margin-bottom: 0px;
+}
+
+#Trust {
+   float: left;
+   font-size: 1.178550375em;
+   width: 100%;
+   height: auto;
+   text-align: center;
+   font-weight: normal;
+   line-height: 15px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 19;
+   margin-top: 12px;
+   margin-left: auto;
+   clear: none;
+   margin-right: auto;
+   margin-bottom: 12px;
+}
+
+#member_ {
+   float: right;
+   font-size: 0.7445481875000001em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(150, 150, 150);
+   font-style: italic;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 37;
+   margin-top: -20px;
+   margin-left: 0px;
+   clear: none;
+   margin-right: 10px;
+   margin-bottom: 0px;
+}
+
+#About {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 59;
+   margin-top: 0px;
+   margin-left: 5px;
+   clear: right;
+   margin-right: 376px;
+   margin-bottom: 0px;
+}
+
+#Trust_Rectangle {
+   float: none;
+   height: 36px;
+   width: 50%;
+   background-color: rgb(255, 255, 255);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 18;
+   margin-top: -18px;
+   margin-left: auto;
+   clear: none;
+   margin-right: auto;
+   margin-bottom: 0px;
+   display: block;
+   visibility: visible;
+   padding-top: 0px;
+   padding-right: 0px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+}
+
+#Nasstrac_logo_png {
+   float: none;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 32;
+   margin-top: 0px;
+   margin-left: auto;
+   clear: none;
+   margin-right: auto;
+   margin-bottom: 0px;
+}
+
+#TitleLogo {
+   float: right;
+   height: auto;
+   width: auto;
+   background-color: rgb(255, 255, 255);
+   box-shadow: rgba(0, 0, 0, 0.74902) 0px 5px 5px;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 31;
+   margin-top: 10px;
+   margin-left: 0px;
+   clear: both;
+   margin-right: 25px;
+   margin-bottom: 0px;
+}
+
+#Nav {
+   float: right;
+   height: auto;
+   margin-left: 0px;
+   margin-top: 20px;
+   clear: right;
+   width: auto;
+   margin-right: 25px;
+   margin-bottom: 10px;
+}
+
+#Header {
+   float: none;
+   height: 90px;
+   margin-left: auto;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   min-width: 0px;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   margin-right: auto;
+   background-image:url("../img/Header.png");
+   background-position: 50% 0%;
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-size: cover;
+}
+
+#Title {
+   float: left;
+   height: 200px;
+   margin-left: 0%;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   background-image:url("../img/Dots.png"),url("../img/Content_Background.png");
+   background-position: 50% 80%, 50% 0%;
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-size: 65%, cover;
+   box-shadow: rgb(166, 166, 166) 0px 5px 5px 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   display: block;
+}
+
+#Main {
+   float: none;
+   height: 1200px;
+   margin-left: auto;
+   margin-top: 0px;
+   clear: none;
+   width: 85.25%;
+   margin-right: auto;
+   box-shadow: rgb(0, 0, 0) 0px 9px 17px 0px;
+   background-color: rgb(255, 255, 255);
+   max-width: 870px;
+}
+
+body {
+   background-image:url("../img/Background.png");
+   background-position: 0% 0%;
+   background-repeat: repeat;
+   background-attachment: scroll;
+   background-size: auto;
+   font-family: lato;
+}
+
+#Shippers_Rectangle {
+   float: none;
+   height: 200px;
+   margin-left: auto;
+   margin-top: 56px;
+   clear: none;
+   width: 93%;
+   margin-right: auto;
+   margin-bottom: 0px;
+   border-top-color: rgb(161, 161, 161);
+   border-right-color: rgb(161, 161, 161);
+   border-bottom-color: rgb(161, 161, 161);
+   border-left-color: rgb(161, 161, 161);
+   border-top-width: 2px;
+   border-right-width: 2px;
+   border-bottom-width: 2px;
+   border-left-width: 2px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   position: relative;
+   display: block;
+}
+
+@media only screen and (max-width: 1020px) {
+   #Title {
+       clear: none;
+       width: 100%;
+       height: 200px;
+       display: block;
+   }
+
+   #Header {
+       width: 100%;
+       height: 90px;
+   }
+
+   #DemoBorder {
+       height: 40px;
+   }
+
+   #Quotes {
+       height: 207px;
+       margin-top: 0px;
+       margin-left: 0%;
+       clear: both;
+   }
+
+   #SalesPoints {
+       height: 325px;
+       clear: none;
+   }
+
+   #Shippers2 {
+       width: 100%;
+   }
+
+   #TitleLogo {
+       clear: none;
+   }
+
+   #Shippers {
+       clear: none;
+   }
+
+   #Home_About_Features_Partners_Contact_Client {
+       clear: none;
+   }
+
+   #login_png {
+       clear: none;
+   }
+
+   #Nasstrac_logo_png {
+       clear: none;
+   }
+
+   #member_ {
+       clear: none;
+   }
+
+   #RequestDemo {
+       clear: none;
+   }
+
+   #Quote {
+       clear: none;
+       height: auto;
+   }
+
+   #Shippers1 {
+       clear: none;
+   }
+
+   #LocationUpdates {
+       height: auto;
+       width: 240px;
+   }
+
+   #EDIIntegration {
+       height: auto;
+       width: 245px;
+   }
+
+   #ReduceWaitTime {
+       height: auto;
+   }
+
+   #Shippers_Rectangle {
+       border-top-color: rgb(161, 161, 161);
+       border-right-color: rgb(161, 161, 161);
+       border-bottom-color: rgb(161, 161, 161);
+       border-left-color: rgb(161, 161, 161);
+       border-top-width: 2px;
+       border-right-width: 2px;
+       border-bottom-width: 2px;
+       border-left-width: 2px;
+       border-top-style: solid;
+       border-right-style: solid;
+       border-bottom-style: solid;
+       border-left-style: solid;
+   }
+
+   #Trust {
+       float: none;
+       clear: none;
+       width: 100%;
+   }
+
+   #McDonalds_logo_png {
+       clear: both;
+   }
+
+   #Perdue_logo_png {
+       clear: none;
+   }
+
+   #Target_logo_png {
+       clear: none;
+   }
+}
+

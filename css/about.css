@@ -1,0 +1,726 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+   height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   min-height: 100%;
+   width: 100%;
+   min-width: 1020px;
+}
+
+#Home_About_Features_Partners_Contact_Client {
+   float: left;
+   font-size: 0.68727525em;
+   width: 100%;
+   height: auto;
+   text-align: center;
+   font-weight: bold;
+   line-height: 14px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 6;
+   margin-top: 1384px;
+   margin-left: auto;
+   clear: both;
+   margin-right: auto;
+   margin-bottom: 5px;
+}
+
+#ContactInfo1 {
+   float: left;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 19px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 15;
+   margin-top: 42px;
+   margin-left: 48px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#AddressInfo {
+   float: left;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 14;
+   margin-top: 24px;
+   margin-left: 64px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#textspan {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#textspan1 {
+   float: none;
+   font-size: 1em;
+   line-height: 19px;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   font-weight: bold;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+}
+
+#MeetMacroPoint {
+   float: left;
+   font-size: 1.07119625em;
+   width: 725px;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 1em;
+   word-wrap: break-word;
+   color: black;
+   font-style: normal;
+   letter-spacing: -0.025em;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: auto;
+   margin-top: 10px;
+   margin-left: 54px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#ATA_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 13;
+   margin-top: 10px;
+   margin-left: 32px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#MeetMacroPointTitle {
+   float: left;
+   font-size: 2.9457896875em;
+   width: 450px;
+   height: auto;
+   text-align: left;
+   font-weight: normal;
+   line-height: 1em;
+   word-wrap: break-word;
+   color: black;
+   font-style: normal;
+   letter-spacing: -0.025em;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 23;
+   margin-top: 32px;
+   margin-left: 54px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#MacroPoint_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: auto;
+   margin-top: 30px;
+   margin-left: 25px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 10px;
+}
+
+#Nasstrac_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 10;
+   margin-top: 0px;
+   margin-left: 0%;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#TIA_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 12;
+   margin-top: 0px;
+   margin-left: 32px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#CSCMP_logo_png {
+   float: left;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 11;
+   margin-top: 5px;
+   margin-left: 32px;
+   clear: none;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Contact {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 39;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: none;
+   margin-right: 5px;
+   margin-bottom: 0px;
+}
+
+#login_png {
+   float: right;
+   width: auto;
+   max-width: 100%;
+   height: auto;
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: auto;
+   margin-top: 0px;
+   margin-left: 0px;
+   clear: none;
+   margin-right: 25px;
+   margin-bottom: 0px;
+}
+
+#IndustryLeadership {
+   float: left;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 19px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 16;
+   margin-top: 20px;
+   margin-left: 64px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Partners {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 36;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: none;
+   margin-right: 125px;
+   margin-bottom: 0px;
+}
+
+#IndustryLeadershipTitle {
+   float: left;
+   font-size: 1.73945625em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: black;
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 17;
+   margin-top: 30px;
+   margin-left: 64px;
+   clear: both;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#Features {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: static;
+   z-index: 38;
+   margin-top: -9px;
+   margin-left: 5px;
+   clear: both;
+   margin-right: 250px;
+   margin-bottom: 0px;
+}
+
+#MacroPointDescription {
+   float: none;
+   font-size: 16px;
+   width: 85%;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 19px;
+   word-wrap: break-word;
+   color: rgb(93, 93, 93);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   z-index: 18;
+   margin-top: 20px;
+   margin-left: auto;
+   clear: both;
+   min-height: 286px;
+   margin-right: auto;
+   margin-bottom: 0px;
+}
+
+#About {
+   float: right;
+   font-size: 1em;
+   width: auto;
+   height: auto;
+   text-align: left;
+   font-weight: bold;
+   line-height: 9px;
+   word-wrap: break-word;
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   letter-spacing: normal;
+   text-decoration: none;
+   font-family: lato;
+   position: static;
+   z-index: 37;
+   margin-top: 0px;
+   margin-left: 0px;
+   clear: none;
+   margin-right: 376px;
+   margin-bottom: 0px;
+}
+
+body {
+   background-image:url("../img/Background.png");
+   background-position: 0% 0%;
+   background-repeat: repeat;
+   background-attachment: scroll;
+   background-size: auto;
+}
+
+#Main {
+   float: none;
+   height: 1493px;
+   margin-left: auto;
+   margin-top: 0px;
+   clear: none;
+   width: 85.249694%;
+   max-width: 870px;
+   margin-right: auto;
+   margin-bottom: 0px;
+   background-color: rgb(255, 255, 255);
+   box-shadow: rgb(0, 0, 0) 0px 9px 17px 0px;
+}
+
+#Header {
+   float: none;
+   height: 90px;
+   margin-left: auto;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   margin-right: auto;
+   margin-bottom: 0px;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   background-image:url("../img/Header.png");
+   background-position: 50% 0%;
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-size: cover;
+}
+
+#Nav {
+   float: right;
+   height: auto;
+   margin-left: 0px;
+   margin-top: 20px;
+   clear: right;
+   width: 480px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+}
+
+#Title {
+   float: left;
+   height: 170px;
+   margin-left: 0%;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   background-color: rgb(238, 176, 28);
+   box-shadow: rgb(166, 166, 166) 0px 5px 5px 0px;
+}
+
+#Description {
+   float: left;
+   height: 425px;
+   margin-left: 0px;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#IndustryInfo {
+   float: left;
+   height: 240px;
+   margin-left: 0%;
+   margin-top: 0px;
+   clear: both;
+   width: 100%;
+}
+
+#IndustryLogos {
+   float: left;
+   height: auto;
+   margin-left: 64px;
+   margin-top: 36px;
+   clear: none;
+   width: 58.4985%;
+   max-width: 100%;
+   position: relative;
+   top: 0px;
+   left: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
+
+#ContactInfo {
+   float: left;
+   height: 330px;
+   margin-left: 0px;
+   margin-top: 0px;
+   clear: none;
+   width: 100%;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   position: relative;
+   top: 0px;
+   left: 0px;
+}
+
+@media only screen and (max-width: 1020px) {
+   .primaryContainer {
+       width: 100%;
+   }
+
+   #MeetMacroPointTitle {
+       height: auto;
+       width: 450px;
+       margin-top: 32px;
+       margin-left: 54px;
+       clear: none;
+       margin-right: 0px;
+       margin-bottom: 0px;
+   }
+
+   #MeetMacroPoint {
+       clear: none;
+   }
+
+   #AddressInfo {
+       clear: none;
+   }
+
+   #ContactInfo1 {
+       clear: none;
+   }
+
+   #MacroPoint_logo_png {
+       clear: none;
+   }
+
+   #login_png {
+       clear: none;
+   }
+
+   #About {
+       clear: none;
+   }
+
+   #Partners {
+       clear: none;
+   }
+
+   #Nasstrac_logo_png {
+       clear: none;
+   }
+
+   #CSCMP_logo_png {
+       clear: none;
+   }
+
+   #TIA_logo_png {
+       clear: none;
+   }
+
+   #ATA_logo_png {
+       clear: none;
+   }
+
+   #Home_About_Features_Partners_Contact_Client {
+       margin-left: auto;
+       margin-right: auto;
+       float: none;
+   }
+
+   #Contact {
+       clear: none;
+   }
+
+   body {
+       background-image:url("../img/Background.png");
+       background-position: 0% 0%;
+       background-repeat: repeat;
+       background-attachment: scroll;
+       background-size: auto;
+   }
+
+   #Main {
+       float: none;
+       height: 1493px;
+       margin-left: auto;
+       margin-top: 0px;
+       clear: none;
+       width: 85.249694%;
+       max-width: 870px;
+       margin-right: auto;
+       margin-bottom: 0px;
+       background-color: rgb(255, 255, 255);
+       box-shadow: rgb(0, 0, 0) 0px 9px 17px 0px;
+   }
+
+   #Header {
+       float: none;
+       height: 90px;
+       margin-left: auto;
+       margin-top: 0px;
+       clear: none;
+       width: 100%;
+       margin-right: auto;
+       margin-bottom: 0px;
+       position: relative;
+       top: 0px;
+       left: 0px;
+       background-image:url("../img/Header.png");
+       background-position: 50% 0%;
+       background-repeat: no-repeat;
+       background-attachment: scroll;
+       background-size: cover;
+   }
+
+   #Nav {
+       float: right;
+       height: auto;
+       margin-left: 0px;
+       margin-top: 20px;
+       clear: right;
+       width: 480px;
+       margin-right: 20px;
+       margin-bottom: 10px;
+   }
+
+   #Title {
+       float: left;
+       height: 170px;
+       margin-left: 0%;
+       margin-top: 0px;
+       clear: none;
+       width: 100%;
+       margin-right: 0px;
+       margin-bottom: 0px;
+       background-color: rgb(238, 176, 28);
+       box-shadow: rgb(166, 166, 166) 0px 5px 5px 0px;
+   }
+
+   #Description {
+       float: left;
+       height: 425px;
+       margin-left: 0px;
+       margin-top: 0px;
+       clear: none;
+       width: 100%;
+       margin-right: 0px;
+       margin-bottom: 0px;
+   }
+
+   #IndustryInfo {
+       float: left;
+       height: 240px;
+       margin-left: 0%;
+       margin-top: 0px;
+       clear: both;
+       width: 100%;
+   }
+
+   #IndustryLogos {
+       float: left;
+       height: auto;
+       margin-left: 64px;
+       margin-top: 36px;
+       clear: none;
+       width: 58.4985%;
+       max-width: 100%;
+       position: relative;
+       top: 0px;
+       left: 0px;
+       margin-right: 0px;
+       margin-bottom: 0px;
+   }
+
+   #ContactInfo {
+       float: left;
+       height: 330px;
+       margin-left: 0px;
+       margin-top: 0px;
+       clear: none;
+       width: 100%;
+       margin-right: 0px;
+       margin-bottom: 0px;
+       position: relative;
+       top: 0px;
+       left: 0px;
+   }
+}
+

@@ -505,7 +505,7 @@ body {
     clear: none;
     width: 100%;
     min-width: 0px;
-    background-image:url("img/partner.png");
+    background-image:url("../img/partner.png");
     background-attachment: scroll;
     background-size: cover;
     background-position: 0% 0%;
